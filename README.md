@@ -11,8 +11,8 @@ I’m a Computer Science and Music major at Northeastern University, passionate 
 
 -------------------------------------------------------------------------
 ## Interests
-**Software Development**: Building systems that smoothen user experience through **REST APIs**, **JavaScript** and **SQL**.
-**Game Development**: Creating interactive game experiences with algorithmic music composition in MAX/MSP and exploring creative approaches to game sound design.
+* **Software Development**: Building systems that smoothen user experience through **REST APIs**, **JavaScript** and **SQL**.
+* **Game Development**: Creating interactive game experiences with algorithmic music composition in MAX/MSP and exploring creative approaches to game sound design.
 -------------------------------------------------------------------------
 ## Experience
 **ElevatEd School | Technical Intern | Remote | (Jun 2024-Aug 2024, Jun 2025-Aug 2025)** 
