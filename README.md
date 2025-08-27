@@ -4,10 +4,10 @@ I’m a Computer Science and Music major at Northeastern University, passionate 
 
 -------------------------------------------------------------------------
 ## Technologies & Tools
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eacb0396-0d54-49d9-a5b0-3b3de6e98fbb" />
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/169ccb90-8fee-4f98-816f-5b0696175836" />
-<img width="269" height="326" alt="image" src="https://github.com/user-attachments/assets/acd7ea04-f19b-4cf0-b149-f4f4826a8fc5" />
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/158c53a2-9e37-4980-bff3-c2e16e5a2d21" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/eacb0396-0d54-49d9-a5b0-3b3de6e98fbb" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/169ccb90-8fee-4f98-816f-5b0696175836" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/acd7ea04-f19b-4cf0-b149-f4f4826a8fc5" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/158c53a2-9e37-4980-bff3-c2e16e5a2d21" />
 
 -------------------------------------------------------------------------
 ## Interests
