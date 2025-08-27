@@ -29,7 +29,7 @@ I’m a Computer Science and Music major at Northeastern University, passionate 
 -------------------------------------------------------------------------
 ## Let's Connect
 * Github: https://github.com/naomizhang3
-* LinkedIn: https://www.linkedin.com/in/naomi-zhang1/
+* LinkedIn: https://www.linkedin.com/in/naomi-zhang3/
 * Email: zhang.nao@northeastern.edu
 <!--
 **naomizhang3/naomizhang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
