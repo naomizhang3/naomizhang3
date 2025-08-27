@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Naomi Zhang
 
-I’m a Computer Science and Music major at Northeastern University, passionate about streamlined backend development and creative frontend design. I also enjoy combining music and technology through game development and music-driven applications.
+I’m a Computer Science and Music major at Northeastern University, passionate about streamlined backend development, creative frontend design and creating tech tutorials. I also enjoy combining music and technology through game development and music-driven applications.
 
 -------------------------------------------------------------------------
 ## Technologies & Tools
@@ -12,6 +12,7 @@ I’m a Computer Science and Music major at Northeastern University, passionate 
 -------------------------------------------------------------------------
 ## Interests
 * **Software Development**: Building systems that smoothen user experience through **REST APIs**, **JavaScript** and **SQL**.
+* **Tech Tutorials**: Creating videos to explain confusing processes I struggled with, filling gaps in existing resources.
 * **Game Development**: Creating interactive game experiences with algorithmic music composition in MAX/MSP and exploring creative approaches to game sound design.
 -------------------------------------------------------------------------
 ## Experience
@@ -31,6 +32,7 @@ I’m a Computer Science and Music major at Northeastern University, passionate 
 * Github: https://github.com/naomizhang3
 * LinkedIn: https://www.linkedin.com/in/naomi-zhang3/
 * Email: zhang.nao@northeastern.edu
+* YouTube: https://www.youtube.com/channel/UC3yvBWLpUbTDHDwXLa492qA
 <!--
 **naomizhang3/naomizhang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
