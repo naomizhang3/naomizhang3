@@ -23,8 +23,8 @@ I’m a Computer Science and Music major at Northeastern University, passionate 
 
 -------------------------------------------------------------------------
 ## Notable Projects
-**Mizzle Melodies** Created a music-themed 2D-Platformer game using Unity (C#), composing the music and drawing most of the art.
-**Brainflex** Collabarated with 4 team mebers to create a personalized-matching tutoring app using Docker, Streamlit and Flask for API calls.
+* **Mizzle Melodies** Created a music-themed 2D-Platformer game using Unity (C#), composing the music and drawing most of the art.
+* **Brainflex** Collabarated with 4 team mebers to create a personalized-matching tutoring app using Docker, Streamlit and Flask for API calls.
 
 -------------------------------------------------------------------------
 ## Let's Connect
