@@ -11,7 +11,7 @@ I’m a Computer Science and Music major at Northeastern University, passionate 
 
 -------------------------------------------------------------------------
 ## Interests
-* **Software Development**: Building systems that smoothen user experience through **REST APIs**, **JavaScript** and **SQL**.
+* **Software Development**: Building systems that smoothen user experience through **REST APIs**, **JavaScript**, **Python** and **SQL**.
 * **Tech Tutorials**: Creating videos to explain confusing processes I struggled with, filling gaps in existing resources.
 * **Game Development**: Creating interactive game experiences with algorithmic music composition in MAX/MSP and exploring creative approaches to game sound design.
 -------------------------------------------------------------------------
